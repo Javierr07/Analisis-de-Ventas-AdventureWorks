@@ -88,6 +88,14 @@ lo que realizamos con power query es lo siguiente
 
 
 ## 3. Modelado de datos y creación de relaciones.
+
+diagrama del modelado de datos con sus respectivas relaciones.
+<img width="1025" height="584" alt="image" src="https://github.com/user-attachments/assets/366e10ed-9a66-4a04-80e6-a1242bc6ccab" />
+
+
+
+
+
 ## 4. Definición de métricas con DAX.
 ## 5. Construcción del dashboard.
 ## 6. Interpretación de los resultados.
