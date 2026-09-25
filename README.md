@@ -28,6 +28,7 @@ Sales.SalesOrderHeader
 
 con SQL investigaremos los datos relevantes que nos datan una guia clave para extraerlos a power BI.
 
+
 - rango de fecha en que se realizaron las ventas nos servira para saber que periodos estamos analizando.
   <img width="343" height="219" alt="image" src="https://github.com/user-attachments/assets/a27ec153-5166-4ee0-b48f-07b0867e9f4d" />
 
