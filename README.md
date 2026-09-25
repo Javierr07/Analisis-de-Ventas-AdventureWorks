@@ -26,9 +26,7 @@ Sales.SalesOrderHeader
 ## 5. Metodología
 
 
-
 ## 1. Exploración de datos con SQL
-
 
 
 ### 1.1. Rango de fechas
@@ -77,14 +75,11 @@ tenían ventas registradas.
 
 
 
-
-
-
-2. Limpieza y transformación con Power Query.
-3. Modelado de datos y creación de relaciones.
-4. Definición de métricas con DAX.
-5. Construcción del dashboard.
-6. Interpretación de los resultados.
+## 2. Limpieza y transformación con Power Query.
+## 3. Modelado de datos y creación de relaciones.
+## 4. Definición de métricas con DAX.
+## 5. Construcción del dashboard.
+## 6. Interpretación de los resultados.
 
 ## 6. Indicadores principales
 | Indicador | Descripción |
