@@ -32,7 +32,8 @@ Sales.SalesOrderHeader
 | Período de ventas | Ventas totales |
 |:---:|:---:|
 | <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/c46f4e00-b538-41c6-9c07-ff58f0464b75" />
- | <img width="350" height="248" alt="image" src="https://github.com/user-attachments/assets/b0d521d3-d615-4d17-88c8-d338bcee094f" /> |
+ | <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/a01c3369-c7cc-4fae-8100-bf940d28003c" />
+ |
 
 | Categorías | Productos sin categoría |
 |:---:|:---:|
