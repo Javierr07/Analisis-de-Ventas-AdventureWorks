@@ -25,6 +25,29 @@ Sales.SalesOrderHeader
 
 ## 5. Metodología
 1. Extracción de datos con SQL.
+
+con SQL investigaremos los datos relevantes que nos datan una guia clave para extraerlos a power BI.
+
+- rango de fecha en que se realizaron las ventas nos servira para saber que periodos estamos analizando.
+  <img width="343" height="219" alt="image" src="https://github.com/user-attachments/assets/a27ec153-5166-4ee0-b48f-07b0867e9f4d" />
+
+  --Ventas totales durante el periodo a evaluar
+  <img width="478" height="248" alt="image" src="https://github.com/user-attachments/assets/b0d521d3-d615-4d17-88c8-d338bcee094f" />
+
+  -Categorias
+  <img width="548" height="281" alt="image" src="https://github.com/user-attachments/assets/6428d913-adfc-4f2c-813f-4930006011f7" />
+
+  -- Productos que no tienen Subcategoria.
+  <img width="461" height="472" alt="image" src="https://github.com/user-attachments/assets/68e69dff-e583-4f14-baf6-ba34b907f360" />
+
+--verificamos que los productos que no tienen subcategoria no tuvieran registros de ventas, lo cual indica que estos productos no producienron importe a las ventas totales.
+<img width="646" height="591" alt="image" src="https://github.com/user-attachments/assets/d34c2504-ec5a-4735-b413-5556bc5f797b" />
+
+
+
+
+
+
 2. Limpieza y transformación con Power Query.
 3. Modelado de datos y creación de relaciones.
 4. Definición de métricas con DAX.
