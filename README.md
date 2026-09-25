@@ -76,6 +76,16 @@ tenían ventas registradas.
 
 
 ## 2. Limpieza y transformación con Power Query.
+
+lo que realizamos con power query es lo siguiente
+- eliminar las columnas que no son utiles dentro del analis.
+- correjimos los tipos de datos de cada columna para evitar errores de calculo.
+- eliminamos los productos sin subcategoria ya que no son relevantes dentro del analisis
+
+<img width="650" height="645" alt="image" src="https://github.com/user-attachments/assets/1ce6f523-a4b0-4670-ade1-aef1001aa41c" />
+
+
+
 ## 3. Modelado de datos y creación de relaciones.
 ## 4. Definición de métricas con DAX.
 ## 5. Construcción del dashboard.
