@@ -1,12 +1,12 @@
 # Análisis de ventas | AdventureWorks
 
 ## 1. Descripción
-Análisis de ventas utilizando AdventureWorks 2022 para identificar kpis importantes para tener una narrativa de las ventas resgistradas.
+Análisis de ventas utilizando AdventureWorks 2022 para identificar kpis importantes para analizar el comportamiento yt evolucion de las ventas.
 
 ## 2. Objetivos
 - relizar una analitica profunda dentro de la base de datos AdventureWorks.
-- tener un contexto claro y demostrable con lso datos de como evolucionan las ventas.
-- identificar metricas especificas que nos demuestren cambios significativos dentro de las ventas.
+- identificar las tendencias de las ventas a nivel anual y mensual.
+- obtener metricas especificas que explique en comportamiento de las ventas.
 
 ## 3. Herramientas
 - SQL Server: extracción y consultas.
@@ -22,8 +22,6 @@ Production.ProductSubcategory
 Production.ProductCategory
 Sales.SalesOrderDetail
 Sales.SalesOrderHeader
-- Consideraciones de calidad:
-
 
 ## 5. Metodología
 1. Extracción de datos con SQL.
