@@ -89,24 +89,35 @@ lo que realizamos con power query es lo siguiente.
 
 ## 3. Modelado de datos y creación de relaciones.
 
-diagrama del modelado de datos con sus respectivas relaciones.
+diagrama del modelado de datos en el cual realizamos las respectivas relaciones entre tablas y se genero la tabla de fechas la cual es fundamental para el manejo de fechas dentro del analisis.
 <img width="1025" height="584" alt="image" src="https://github.com/user-attachments/assets/366e10ed-9a66-4a04-80e6-a1242bc6ccab" />
 
 
 
-
-
 ## 4. Definición de métricas con DAX.
+
+Despues del proceso de Modelado de datos utilizamos Dax para obtener las KPIS nesesaria para tener un analisis completo y dinamico.
+
+### Indicadores principales
+| Indicador | Descripción |
+|---|---|
+| Ventas totales | Importe total de las ventas. |
+| Variación interanual | Cambio porcentual respecto al año anterior |
+| Ventas por categoría | Distribución de ventas por categoría |
+| Top 3 meses | Meses con mayores ventas en el año |
+| Total de Unidades vendidas | Suma total de los productos vendidos |
+
+ejemplo de uso de dax dentro de Power BI.
+<img width="414" height="250" alt="image" src="https://github.com/user-attachments/assets/a3ed4151-400a-46cf-9b21-79dee64758b2" />
+
+
+
+
+
 ## 5. Construcción del dashboard.
 ## 6. Interpretación de los resultados.
 
-## 6. Indicadores principales
-| Indicador | Descripción |
-|---|---|
-| Ventas totales | Importe total de ventas |
-| Variación interanual | Cambio porcentual respecto al año anterior |
-| Ventas por categoría | Distribución de ventas por categoría |
-| Top 3 meses | Meses con mayores ventas |
+
 
 ## 7. Dashboard
 ![Dashboard de ventas](images/dashboard.png)
