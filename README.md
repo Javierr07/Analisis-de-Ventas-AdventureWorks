@@ -66,6 +66,10 @@ una subcategoría asignada.
 
   <img width="450" height="472" alt="image" src="https://github.com/user-attachments/assets/68e69dff-e583-4f14-baf6-ba34b907f360" />
 
+---
+
+### 1.5. ventas de productos sin subcategoria
+
 Posteriormente, se verificó si estos productos
 tenían ventas registradas.
 
