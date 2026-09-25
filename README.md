@@ -6,7 +6,7 @@ Análisis de ventas utilizando AdventureWorks 2022 para identificar kpis importa
 ## 2. Objetivos
 - relizar una analitica profunda dentro de la base de datos AdventureWorks.
 - identificar las tendencias de las ventas a nivel anual y mensual.
-- obtener metricas especificas que explique en comportamiento de las ventas.
+- obtener metricas especificas que nos ayuden a responder preguntas del negocio.
 
 ## 3. Herramientas
 - SQL Server: extracción y consultas.
