@@ -115,12 +115,23 @@ ejemplo de uso de dax dentro de Power BI.
 
 
 ## 5. Construcción del dashboard.
+
+el dashboard esta compuesto de la siguiente manera:
+- dos filtros importantes que son Año y Categoria con los que se podra filtrar las ventas por año y categoria.
+- los diferentes KPIs que nos indican los datos mas relevantes como lo es, Ventas Totales, Ticket Promedio, Total Unidades Vendidas, Cantidad de Pedidos y variacion de ventas por año.
+- grafico de barras el cual muestra las ventas totales por año.
+- grafico de linea que muestra la evolucion de las ventas mes a mes.
+- variacion de ventas interanual donde comparamos las ventas de un año con el anterior.
+- el Top 3 meses mas rentables del año.
+- grafico de barras en el que mostramos las ventas totales por categoria.
+
+<img width="1250" height="630" alt="image" src="https://github.com/user-attachments/assets/6314dc55-5b66-4386-b8e7-9df5e024521c" />
+
 ## 6. Interpretación de los resultados.
 
 
 
 ## 7. Dashboard
-![Dashboard de ventas](images/dashboard.png)
 
 El dashboard permite filtrar los resultados por año y categoría y comparar las ventas entre períodos.
 
