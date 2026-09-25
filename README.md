@@ -24,6 +24,37 @@ Sales.SalesOrderDetail
 Sales.SalesOrderHeader
 
 ## 5. Metodología
+
+
+
+## 1. Exploración de datos con SQL
+
+| Período de ventas | Ventas totales |
+|:---:|:---:|
+| <img width="350" height="317" alt="image" src="https://github.com/user-attachments/assets/aa672546-e1c8-4182-9b32-76f35584416f" /> | <img width="350" height="248" alt="image" src="https://github.com/user-attachments/assets/b0d521d3-d615-4d17-88c8-d338bcee094f" /> |
+
+| Categorías | Productos sin categoría |
+|:---:|:---:|
+| <img src="images/categorias.png" width="350"> | <img src="images/sin_categoria.png" width="350"> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. Extracción de datos con SQL.
 
 con SQL investigaremos los datos relevantes que nos datan una guia clave para extraerlos a power BI.
@@ -33,7 +64,7 @@ con SQL investigaremos los datos relevantes que nos datan una guia clave para ex
   <img width="343" height="219" alt="image" src="https://github.com/user-attachments/assets/a27ec153-5166-4ee0-b48f-07b0867e9f4d" />
 
   --Ventas totales durante el periodo a evaluar
-  <img width="478" height="248" alt="image" src="https://github.com/user-attachments/assets/b0d521d3-d615-4d17-88c8-d338bcee094f" />
+  
 
   -Categorias
   <img width="548" height="281" alt="image" src="https://github.com/user-attachments/assets/6428d913-adfc-4f2c-813f-4930006011f7" />
