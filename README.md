@@ -82,7 +82,7 @@ lo que realizamos con power query es lo siguiente
 - correjimos los tipos de datos de cada columna para evitar errores de calculo.
 - eliminamos los productos sin subcategoria ya que no son relevantes dentro del analisis
 
-<img width="650" height="645" alt="image" src="https://github.com/user-attachments/assets/1ce6f523-a4b0-4670-ade1-aef1001aa41c" />
+<img width="850" height="645" alt="image" src="https://github.com/user-attachments/assets/1ce6f523-a4b0-4670-ade1-aef1001aa41c" />
 
 
 
