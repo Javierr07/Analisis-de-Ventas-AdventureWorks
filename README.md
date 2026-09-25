@@ -108,10 +108,10 @@ Despues del proceso de Modelado de datos utilizamos Dax para obtener las KPIS ne
 | Total de Unidades vendidas | Suma total de los productos vendidos |
 
 ejemplo de uso de dax dentro de Power BI.
+
 <img width="414" height="250" alt="image" src="https://github.com/user-attachments/assets/a3ed4151-400a-46cf-9b21-79dee64758b2" />
 
-
-
+---
 
 
 ## 5. Construcción del dashboard.
