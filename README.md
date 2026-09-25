@@ -29,15 +29,47 @@ Sales.SalesOrderHeader
 
 ## 1. Exploración de datos con SQL
 
-| Período de ventas | Ventas totales |
-|:---:|:---:|
-| <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/c46f4e00-b538-41c6-9c07-ff58f0464b75" />
- | <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/a01c3369-c7cc-4fae-8100-bf940d28003c" />
- |
 
-| Categorías | Productos sin categoría |
-|:---:|:---:|
-| <img src="images/categorias.png" width="350"> | <img src="images/sin_categoria.png" width="350"> |
+
+### 1.1. Rango de fechas
+
+Se identificó el período de ventas registrado
+en la base de datos.
+
+<img width="350" height="219" alt="image" src="https://github.com/user-attachments/assets/a27ec153-5166-4ee0-b48f-07b0867e9f4d" />
+
+---
+
+### 1.2. Ventas totales
+
+Se calculó el importe total de las ventas
+registradas durante el período analizado.
+
+<img width="500" height="361" alt="image" src="https://github.com/user-attachments/assets/8c4fd677-0a31-4314-a150-174b44c186ad" />
+
+
+---
+
+### 1.3. Categorías de productos
+
+Se identificaron las categorías disponibles
+en la base de datos.
+
+<img src="images/categorias.png" width="300" alt="Categorías">
+
+---
+
+### 1.4. Productos sin subcategoría
+
+Se identificaron los productos que no tienen
+una subcategoría asignada.
+
+<img src="images/sin_categoria.png" width="450" alt="Productos sin subcategoría">
+
+Posteriormente, se verificó si estos productos
+tenían ventas registradas.
+
+<img src="images/validacion.png" width="550" alt="Validación de ventas">
 
 
 
