@@ -182,11 +182,19 @@ los resultados nos muestran que el año 2013 fue el que mas ventas genero de tod
 
 
 
+## Retos que se presentaron.
+
+En el proceso de este proyecto se presentaron muchos retos los cuales mas que estancarme en el proceso me ayudaron a comprender a mayor profundidad el proyecto y tambien a mejorar mi analitica, los retos que considero complicados en este royecto feron.
+
+- la seleccion correcta de los datos a analizar ya que AdventureWorks es un abase de datos extensa y sabes que tablas y que datos de esas tablas se utilizaran deben ser muy precisos.
+- las preguntas a responder de que forma procesar las consultas y obtener los datos especificos que den respuesta a la investigacon.
+- los KPIs a utilizar, ya que estas metricas deben de relaacionarse entre si para poder tener un analisis mas especifico.
+- la Dimension Fecha, los datos obtenidos no contaban con una dimension fecha por lo que se tuvo que realizar con DAX lo cual fue un gran reto considerando la importancia de esta dimension para el analisis.
+- Como mostrar los datos, para mi fue un reto seleccionar de que forma se mostrar cada KPI y como relacionarlas para ser lo mas detallado posible con la menor cantidad de graficos.
 
 
 
-
-### 10. Archivos del proyecto
+## 10. Archivos del proyecto
 
 - Dashboard del proyecto
 - 
