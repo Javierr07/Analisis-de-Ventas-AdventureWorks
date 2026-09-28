@@ -127,17 +127,30 @@ el dashboard esta compuesto de la siguiente manera:
 
 <img width="1250" height="630" alt="image" src="https://github.com/user-attachments/assets/6314dc55-5b66-4386-b8e7-9df5e024521c" />
 
-## 6. Interpretación de los resultados.
+
+
+## 6. Hallazgos
+
+### Comparacion de Ventas Anuales.
+
+los resultados nos muestran que el año 2013 fue el que mas ventas genero de todos pero hay que tener dos consideraciones
+
+- las ventas el año 2011 fueron solo del periodo de Mayo a Diciembre por lo que comparar con los demás año seria un error debido a que las ventas fueron en un tiempo parcial del año.
+- las ventas de año 2014 también fueron durante un tiempo parcial ya que solo se tienen registros desde Enero hasta Junio.
+
+<img width="494" height="276" alt="image" src="https://github.com/user-attachments/assets/c5c6039e-bdcd-4634-8191-27d8a898165b" />
+
+### Ventas 2011
+Las ventas generadas en el 2011 nos dan los siguientes resultados.
+- Ventas Totales $12.64 millones.
+- los meses con mas ingresos que fueron Julio, Agosto y Octubre.
+- El grafico mensual muestra claramente que es mes de inicio de las ventas fue Mayo. 
+
+<img width="1253" height="634" alt="image" src="https://github.com/user-attachments/assets/7c76241c-9645-4b79-9ecf-3de1211038b1" />
 
 
 
-## 7. Dashboard
 
-El dashboard permite filtrar los resultados por año y categoría y comparar las ventas entre períodos.
-
-## 8. Hallazgos
-1. **[Hallazgo 1]:** [Dato que lo respalda].
-2. **[Hallazgo 2]:** [Dato que lo respalda].
 3. **[Hallazgo 3]:** [Dato que lo respalda].
 
 ## 9. Conclusiones
