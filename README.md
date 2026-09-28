@@ -144,7 +144,8 @@ los resultados nos muestran que el año 2013 fue el que mas ventas genero de tod
 Las ventas generadas en el 2011 nos dan los siguientes resultados.
 - Ventas Totales $12.64 millones.
 - los meses con mas ingresos que fueron Julio, Agosto y Octubre.
-- El grafico mensual muestra claramente que es mes de inicio de las ventas fue Mayo. 
+- El grafico mensual muestra claramente que es mes de inicio de las ventas fue Mayo.
+- la Categoria Bikes Abarcaca el 94% de las ventas.
 
 <img width="1253" height="634" alt="image" src="https://github.com/user-attachments/assets/7c76241c-9645-4b79-9ecf-3de1211038b1" />
 
