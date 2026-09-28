@@ -141,27 +141,55 @@ los resultados nos muestran que el año 2013 fue el que mas ventas genero de tod
 <img width="494" height="276" alt="image" src="https://github.com/user-attachments/assets/c5c6039e-bdcd-4634-8191-27d8a898165b" />
 
 ### Ventas 2011
-Las ventas generadas en el 2011 nos dan los siguientes resultados.
+
 - Ventas Totales $12.64 millones.
 - los meses con mas ingresos que fueron Julio, Agosto y Octubre.
 - El grafico mensual muestra claramente que es mes de inicio de las ventas fue Mayo.
 - la Categoria Bikes Abarcaca el 94% de las ventas.
+- La variacion de Ventas por año aparece vacia ya que se realiza la comparacion con las ventas del año anterior y no tenemos ventas en el 2010.
 
-<img width="1253" height="634" alt="image" src="https://github.com/user-attachments/assets/7c76241c-9645-4b79-9ecf-3de1211038b1" />
+<img width="1096" height="628" alt="image" src="https://github.com/user-attachments/assets/25fa6dff-56d2-43f3-b18a-535943e49773" />
+
+### Ventas 2012
+
+- Ventas Totales $33.52 millones.
+- la varacion con respecto al año anteior fue de 165% considerar que 2011 no realizo ventas en todo el año, eso explica la variacion enorme.
+- los 3 meses con mas ventas son Septiembre, Enero y Junio.
+- la Categoria Bikes abarca el 86% de las ventas.
+
+  <img width="1096" height="640" alt="image" src="https://github.com/user-attachments/assets/734b43dc-24da-4876-b764-7171a38577e1" />
+
+
+### Ventas 2013
+
+- Ventas Totales $43.62 millones.
+- la variacion de ventas con respecto al año 2012 es de 30.12%,
+- los 3 meses con mas ventas son Octubre, Junio, Julio.
+- la Categoria Bikes tiene el 83% de las ventas totales de 2013. 
+
+<img width="1088" height="629" alt="image" src="https://github.com/user-attachments/assets/1adf2ac5-7e0f-4704-971d-7792ea735184" />
+
+
+### Ventas 2014
+
+- Ventas Totales $20.06 millones.
+- la variacion con respecto al año anterior es de -54%.
+- Considerar que solo tenemos datos desde Enero a Junio como se observa en la grafica mensual.
+- los 3 meses con mas ventas son Enero, Mayo y Marzo.
+- la Categoria Bikes abarca el 87% de las ventas totales de 2014.
+
+<img width="1096" height="619" alt="image" src="https://github.com/user-attachments/assets/1cf556d1-2272-4ecd-9549-84a7df0a8d4c" />
 
 
 
 
-3. **[Hallazgo 3]:** [Dato que lo respalda].
 
-## 9. Conclusiones
-[Explica qué indican los resultados, sus limitaciones y qué decisiones podrían apoyar.]
 
-## 10. Archivos del proyecto
-- `sql/`: consultas SQL.
-- `powerbi/`: dashboard de Power BI.
-- `images/`: capturas.
-- `docs/`: documentación adicional.
 
-## 11. Autor
-[Tu nombre] — [Enlace a LinkedIn]
+### 10. Archivos del proyecto
+
+- Dashboard del proyecto
+- 
+[Analisis de Ventas AdventureWorks2022.zip](https://github.com/user-attachments/files/32759738/Analisis.de.Ventas.AdventureWorks2022.zip)
+
+
