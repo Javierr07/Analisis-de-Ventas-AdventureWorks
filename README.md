@@ -1,7 +1,7 @@
 # Análisis de ventas | AdventureWorks
 
 ## 1. Descripción
-Análisis de ventas utilizando AdventureWorks 2022 para identificar kpis importantes para analizar el comportamiento yt evolucion de las ventas.
+Análisis de ventas utilizando AdventureWorks 2022 para identificar KPIs importantes para analizar el comportamiento y evolucion de las ventas.
 
 ## 2. Objetivos
 - relizar una analitica profunda dentro de la base de datos AdventureWorks.
@@ -31,8 +31,7 @@ Sales.SalesOrderHeader
 
 ### 1.1. Rango de fechas
 
-Se identificó el período de ventas registrado
-en la base de datos.
+Se identificó el período de ventas registrado en la base de datos.
 
 <img width="350" height="219" alt="image" src="https://github.com/user-attachments/assets/a27ec153-5166-4ee0-b48f-07b0867e9f4d" />
 
@@ -40,8 +39,7 @@ en la base de datos.
 
 ### 1.2. Ventas totales
 
-Se calculó el importe total de las ventas
-registradas durante el período analizado.
+Se calculó el importe total de las ventas registradas durante el período analizado.
 
 <img width="500" height="361" alt="image" src="https://github.com/user-attachments/assets/8c4fd677-0a31-4314-a150-174b44c186ad" />
 
@@ -50,8 +48,7 @@ registradas durante el período analizado.
 
 ### 1.3. Categorías de productos
 
-Se identificaron las categorías disponibles
-en la base de datos.
+Se identificaron las categorías disponibles en la base de datos.
 
 <img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/6428d913-adfc-4f2c-813f-4930006011f7" />
 
@@ -59,8 +56,7 @@ en la base de datos.
 
 ### 1.4. Productos sin subcategoría
 
-Se identificaron los productos que no tienen
-una subcategoría asignada.
+Se identificaron los productos que no tienen una subcategoría asignada.
 
   <img width="450" height="472" alt="image" src="https://github.com/user-attachments/assets/68e69dff-e583-4f14-baf6-ba34b907f360" />
 
@@ -68,8 +64,7 @@ una subcategoría asignada.
 
 ### 1.5. ventas de productos sin subcategoria
 
-Posteriormente, se verificó si estos productos
-tenían ventas registradas.
+Posteriormente, se verificó si estos productos tenían ventas registradas.
 
 <img width="600" height="591" alt="image" src="https://github.com/user-attachments/assets/d34c2504-ec5a-4735-b413-5556bc5f797b" />
 
@@ -89,7 +84,7 @@ lo que realizamos con power query es lo siguiente.
 
 ## 3. Modelado de datos y creación de relaciones.
 
-diagrama del modelado de datos en el cual realizamos las respectivas relaciones entre tablas y se genero la tabla de fechas la cual es fundamental para el manejo de fechas dentro del analisis.
+Diagrama del modelado de datos en el cual realizamos las respectivas relaciones entre tablas y se genero la tabla de fechas la cual es fundamental para el manejo de fechas dentro del analisis.
 <img width="1025" height="584" alt="image" src="https://github.com/user-attachments/assets/366e10ed-9a66-4a04-80e6-a1242bc6ccab" />
 
 
@@ -118,7 +113,7 @@ ejemplo de uso de dax dentro de Power BI.
 
 el dashboard esta compuesto de la siguiente manera:
 - dos filtros importantes que son Año y Categoria con los que se podra filtrar las ventas por año y categoria.
-- los diferentes KPIs que nos indican los datos mas relevantes como lo es, Ventas Totales, Ticket Promedio, Total Unidades Vendidas, Cantidad de Pedidos y variacion de ventas por año.
+- Los siguientes KPIs , Ventas Totales, Ticket Promedio, Total Unidades Vendidas, Cantidad de Pedidos y variacion de ventas por año.
 - grafico de barras el cual muestra las ventas totales por año.
 - grafico de linea que muestra la evolucion de las ventas mes a mes.
 - variacion de ventas interanual donde comparamos las ventas de un año con el anterior.
@@ -143,7 +138,7 @@ los resultados nos muestran que el año 2013 fue el que mas ventas genero de tod
 ### Ventas 2011
 
 - Ventas Totales $12.64 millones.
-- los meses con mas ingresos que fueron Julio, Agosto y Octubre.
+- Los meses con mas ingresos que fueron Julio, Agosto y Octubre.
 - El grafico mensual muestra claramente que es mes de inicio de las ventas fue Mayo.
 - la Categoria Bikes Abarcaca el 94% de las ventas.
 - La variacion de Ventas por año aparece vacia ya que se realiza la comparacion con las ventas del año anterior y no tenemos ventas en el 2010.
@@ -153,7 +148,7 @@ los resultados nos muestran que el año 2013 fue el que mas ventas genero de tod
 ### Ventas 2012
 
 - Ventas Totales $33.52 millones.
-- la varacion con respecto al año anteior fue de 165% considerar que 2011 no realizo ventas en todo el año, eso explica la variacion enorme.
+- la varacion con respecto al año anterior fue de 165% considerar que 2011 solo realizo ventas en tiempo parcial, eso explica la variacion enorme.
 - los 3 meses con mas ventas son Septiembre, Enero y Junio.
 - la Categoria Bikes abarca el 86% de las ventas.
 
@@ -184,12 +179,12 @@ los resultados nos muestran que el año 2013 fue el que mas ventas genero de tod
 
 ## Retos que se presentaron.
 
-En el proceso de este proyecto se presentaron muchos retos los cuales mas que estancarme en el proceso me ayudaron a comprender a mayor profundidad el proyecto y tambien a mejorar mi analitica, los retos que considero complicados en este royecto feron.
+En el proceso de este proyecto se presentaron muchos retos los cuales mas que estancarme en el proceso me ayudaron a comprender a mayor profundidad el proyecto y tambien a mejorar mi analitica, los retos que considero complicados en este royecto fueron.
 
-- la seleccion correcta de los datos a analizar ya que AdventureWorks es un abase de datos extensa y sabes que tablas y que datos de esas tablas se utilizaran deben ser muy precisos.
-- las preguntas a responder de que forma procesar las consultas y obtener los datos especificos que den respuesta a la investigacon.
-- los KPIs a utilizar, ya que estas metricas deben de relaacionarse entre si para poder tener un analisis mas especifico.
-- la Dimension Fecha, los datos obtenidos no contaban con una dimension fecha por lo que se tuvo que realizar con DAX lo cual fue un gran reto considerando la importancia de esta dimension para el analisis.
+- La seleccion correcta de los datos a analizar ya que AdventureWorks es un abase de datos extensa y saber que tablas y que datos de esas tablas se utilizaran deben ser muy precisos.
+- Las preguntas correctas que guien a la investigacion correctamente.
+- Los KPIs a utilizar, ya que estas metricas deben de relacionarse entre si para poder tener un analisis mas preciso.
+- La Dimension Fecha, los datos obtenidos no contaban con una dimension fecha por lo que se tuvo que realizar con DAX lo cual fue un gran reto considerando la importancia de esta dimension para el analisis.
 - Como mostrar los datos, para mi fue un reto seleccionar de que forma se mostrar cada KPI y como relacionarlas para ser lo mas detallado posible con la menor cantidad de graficos.
 
 
