@@ -70,7 +70,7 @@ Posteriormente, se verificó si estos productos tenían ventas registradas.
 
 
 
-## 2. Limpieza y transformación con Power Query.
+## 2. Limpieza y transformación con Power Query
 
 lo que realizamos con power query es lo siguiente.
 - Eliminamos las columnas innesesarias para el analis.
@@ -82,14 +82,14 @@ lo que realizamos con power query es lo siguiente.
 
 
 
-## 3. Modelado de datos y creación de relaciones.
+## 3. Modelado de datos y creación de relaciones
 
 Diagrama del modelado de datos en el cual realizamos las respectivas relaciones entre tablas y se genero la tabla de fechas la cual es fundamental para el manejo de fechas dentro del analisis.
 <img width="1025" height="584" alt="image" src="https://github.com/user-attachments/assets/366e10ed-9a66-4a04-80e6-a1242bc6ccab" />
 
 
 
-## 4. Definición de métricas con DAX.
+## 4. Definición de métricas con DAX
 
 Despues del proceso de Modelado de datos utilizamos Dax para obtener las KPIS nesesaria para tener un analisis completo y dinamico.
 
@@ -109,7 +109,7 @@ ejemplo de uso de dax dentro de Power BI.
 ---
 
 
-## 5. Construcción del dashboard.
+## 5. Construcción del dashboard
 
 el dashboard esta compuesto de la siguiente manera:
 - dos filtros importantes que son Año y Categoria con los que se podra filtrar las ventas por año y categoria.
@@ -126,7 +126,7 @@ el dashboard esta compuesto de la siguiente manera:
 
 ## 6. Hallazgos
 
-### Comparacion de Ventas Anuales.
+### Comparacion de Ventas Anuales
 
 los resultados nos muestran que el año 2013 fue el que mas ventas genero de todos pero hay que tener dos consideraciones
 
@@ -177,7 +177,7 @@ los resultados nos muestran que el año 2013 fue el que mas ventas genero de tod
 
 
 
-## Retos que se presentaron.
+## Retos que se presentaron
 
 En el proceso de este proyecto se presentaron muchos retos los cuales mas que estancarme en el proceso me ayudaron a comprender a mayor profundidad el proyecto y tambien a mejorar mi analitica, los retos que considero complicados en este royecto fueron.
 
