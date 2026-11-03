@@ -3,6 +3,11 @@
 ## 1. Descripción
 Análisis de ventas utilizando AdventureWorks 2022 para identificar KPIs importantes para analizar el comportamiento y evolucion de las ventas.
 
+### Dashboard
+
+<img width="1111" height="630" alt="image" src="https://github.com/user-attachments/assets/c51720ad-5ec9-4261-8a44-effd320fae90" />
+
+
 ## 2. Objetivos
 - relizar una analitica profunda dentro de la base de datos AdventureWorks.
 - identificar las tendencias de las ventas a nivel anual y mensual.
